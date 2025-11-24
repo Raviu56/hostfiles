@@ -1,3 +1,9 @@
-# Porn, gambling, and social media hosts
+# Comprehensive pornography hosts blacklist
 
-A occasionally updated collection of porn, gambling, and social media domains in [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) format.
+Only pornography-hosts is updated here based on actual live data from many smart DNS servers
+
+Much more comprehensive than Sinfonietta/hostfiles where pr are not accepted any more
+
+Based on live active DNS requests
+
+**As of 24th Nov 2025, Contains 57192 more domains than Sinfonietta/hostfiles/pornography-hosts that is 197%**
